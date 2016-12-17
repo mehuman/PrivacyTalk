@@ -4,6 +4,7 @@
     - Will you forever?
     - What if your friend/family doesn't?
     - Political disent in other countries
+    - Vaccine theory
   - My person is in power
     - They won't always be
     - They aren't the only one's listening
