@@ -2,9 +2,8 @@
 - Reasons to not care
   - Nothing to hide
     - Will you forever?
-    - What if your friend/family doesn't?
+    - What if your friend/family do?
     - Political disent in other countries
-    - Vaccine theory
   - My person is in power
     - They won't always be
     - They aren't the only one's listening
@@ -20,8 +19,13 @@
 # Easy to do
 - Thinking
   - Paranoia
+    - If someone checks your door knob everytime you leave all it takes in once
   - Mass Adoption
 - Tools
+  - Passwords
+    - Password manager
+      - Lastpass
+      - Keepass
   - 2 Factor Auth
     - Google Authenticator
     - Authy
@@ -32,8 +36,16 @@
     - Whatsapp
   - Web Browsing
     - Tor
+      - Tor Browser
     - VPN
-  - Files
+      - Private Internet Access
+      - Roll your own
+  - Files/Drives
+    - Mac - File Vault
+    - Windows - BitLocker
+  - Phones
+    - Fingerprint vs Passcode
+      - Turn off if stopped. Not required to enter code but can be compelled for fingerprint
 
 # Harder to do
 - Thinking
