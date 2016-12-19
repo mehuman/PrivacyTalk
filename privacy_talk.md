@@ -67,3 +67,6 @@
 - Encrypt everything before it leave the air gapped computer.
 - Long password only known to you with 2 factor authentication. Cover keyboard when typing in password.
 - Remove microphone and camera from phone. Remove SIM card when not in use or use public wifi with TOR or VPN
+
+# Links
+- [Privacy Subreddit](https://www.reddit.com/r/privacy/wiki/index)
