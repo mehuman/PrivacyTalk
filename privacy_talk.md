@@ -61,3 +61,9 @@
 - Physical
   - Talking - Free
   - Paper - Near free
+  
+# Going to extremes
+- Air gapped computer running TAILS with encrypted partition for all writting.
+- Encrypt everything before it leave the air gapped computer.
+- Long password only known to you with 2 factor authentication. Cover keyboard when typing in password.
+- Remove microphone and camera from phone. Remove SIM card when not in use or use public wifi with TOR or VPN
